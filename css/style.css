@@ -1,0 +1,96 @@
+
+
+form{
+    
+    background:rgb(175, 201, 201);
+        
+    width: 500px;
+        
+    margin: 0 auto;
+        
+    padding: 20px 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(233, 233, 233);
+    line-height: 24px;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+.container{
+    width: 1300px;
+    margin: 80px;
+    text-align: center;
+}
+.container img{
+    width: 150px;
+    height: 40px;
+    border-radius: 1px;
+    border: 2px solid #777;
+}
+.container h3{
+    font-size: 25px ;
+    font-weight: 700;
+    
+    display: block;
+    margin: 20px 0px; 
+    color: rgba(0, 26, 255, 0.664);   
+}
+h4{
+    font-size: 20px;
+    line-height: 5;
+}
+
+
+.login-box .group{
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    
+}
+.login-box .group .control{
+    padding: 7px;
+    width: 398px;
+}
+.group .button{
+    padding: 10px 45px;
+    background: blue;
+    color: white;
+    border: black;
+    border-radius: 1%;
+    width: 301px;
+    font-size: 14px;
+    border-radius: 42px;
+}
+.button:hover{
+    background: transparent;
+    border: black;
+    color: white;
+    cursor: pointer;
+}
+   
+
+ p1{
+    
+    font-size: 16px;
+   
+}
+.last .Google{
+    width: 398px;
+    padding: 7px;
+}
+footer{
+    text-align: center;
+    padding: 0px;
+    font-size: 15px;
+    color: black;
+    
+}
+
+
